@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neili wael</h1>
-<h3 align="center">A passionate Fullstack web developer and an IT GUY from Tunisia</h3>
+<h3 align="center">A passionate Fullstack web developer and a SAP BASIS consultant from Tunisia</h3>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Spring boot,**
 
