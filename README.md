@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack web developer and a SAP BASIS consultant from Tunisia</h3>
 
 - 🌱 I’m currently learning **Python**
-- 💬 Ask me about **SAP, System Administration...**
+- 💬 Ask me about **SAP, ERP, System Administration...**
 
 - 📫 How to reach me **Neiliwael9@gmail.com**
 
