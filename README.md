@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neili wael</h1>
-<h3 align="center">A passionate Fullstack web developer and SAP BASIS consultant from Tunisia</h3>
+<h3 align="center">A passionate Fullstack web developer and SAP BASIS consultant from Tunisia.</h3>
 
 - 🌱 I’m currently learning **Python**
 - 💬 Ask me about **SAP, ERP, System Administration...**
