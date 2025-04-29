@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neili wael</h1>
 <h3 align="center">A passionate Fullstack web developer and SAP BASIS consultant from Tunisia.</h3>
 
-- 🌱 I'm currently mastering **Python** to deepen my skills and tackle more advanced projects.
+- 🌱 I'm currently mastering ***Python*** to deepen my skills and tackle more advanced projects.
 - 💬 Ask me about **SAP, Odoo, ERP, System Administration...**
 
 - 📫 How to reach me **Neiliwael9@gmail.com**
